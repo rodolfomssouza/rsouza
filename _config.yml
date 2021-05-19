@@ -1,5 +1,5 @@
 # Site settings
-title: Project Pages
+title: Rodolfo Souza
 description: "An Integrated Scientific Blogging Template"
 url: "https://rodolfomssouza.github.io"
 
@@ -13,9 +13,9 @@ headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  rodolfomssouza
+project_repository: rsouza
+disqus_shortname: rsouza
 g-analytics: UA-75881392-1
 altmetric: true
 
