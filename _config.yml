@@ -26,8 +26,8 @@ baseurl: "/rsouza" # the subpath of your site, e.g. /blog
 url: "https://rodolfomssouza.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rodolfomssouza
 github_username:  rodolfomssouza
-orcid_username: dasda
-researchgate_username: Rodolfo-Souza-4
+# orcid_username: dasda
+
 
 # Build settings
 theme: minima
