@@ -155,15 +155,21 @@
   </header>
 
   <article>
-    <p>In construction.</p>
+    <h2 id="summary">Summary</h2>
 
-<h2 id="soil-water-balance">Soil water balance</h2>
+<p>In this project, the vegetation growth represented by the
+Normalized Difference Vegetation Index (NDVI) is simulated coupled with a soil
+water balance model.
+The details of the model and parametrization is described in <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.10953">Souza et al. (2016)</a>.</p>
 
-\[n Z_r \frac{ds}{dt} = R - C_I - Q - L - ET\]
+<p>We made a simple R package named <a href="https://cran.r-project.org/web/packages/Ecohydmod/index.html">Ecohydmod</a>
+which includes the models and a function to simulate rainfall series using Poisson Process.</p>
 
-<h2 id="vegetation-growth">Vegetation growth</h2>
+<h3 id="soil-water-balance">Soil water balance</h3>
 
-<p>Vegetation growth was represented by the Normalized Difference Vegetation Index (NDVI) as</p>
+\[n Z_r \frac{ds}{dt} = R(t) - C_I(R,N) - Q(R,s) - L(s) - ET(s,N)\]
+
+<h3 id="vegetation-growth">Vegetation growth</h3>
 
 \[\frac{dN}{dt} = k_A A(s) [N_{max} - N] - k_R [N - N_{min}]\]
 
