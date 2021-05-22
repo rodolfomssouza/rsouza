@@ -8,7 +8,7 @@ first_name: Rodolfo
 last_name: Souza
 email: rodolfomssouza@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am an Agronomist and Postdoctoral Research Associate. My research focuses on the ecohydrology of natural and agro-ecosystems.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -61,7 +61,8 @@ wikidata_id: # your wikidata id
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+# google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-1LRDNN2ME2
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
