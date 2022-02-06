@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Rodolfo
 # middle_name:
 last_name: Souza
-email: rodolfomssouza@gmail.com
+email: rsouza@mailbox.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am an Agronomist and Postdoctoral Research Associate. My research focuses on the ecohydrology of natural and agro-ecosystems.
 footer_text: >

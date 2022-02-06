@@ -23,4 +23,3 @@ I am also a Linux (and Open Source) enthusiastic, and I like scientific programm
 
 One of my goals is to make my project's codes (Julia, Python, and R) available for those who are interested in scientific programming. You can find here the public repositories of my recent projects a list of selected publications. This is my [Google Scholar profile](https://scholar.google.com/citations?user=H4jbGCYAAAAJ&hl=en){:target="\_blank"} and please email me directly for copies of articles or any other questions.
 
-Testing [R Shiny App]!(http://128.194.203.20:3838/sample-apps/hello/)
